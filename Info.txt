@@ -1,0 +1,5 @@
+OneDrive Valid Email Checker
+
+This tool will valiate your email list from a txt file which is using OneDrive and which is not. This tool support multiprocessing to check more faster.
+
+If you want to buy contact me via telegram @alexrony21
